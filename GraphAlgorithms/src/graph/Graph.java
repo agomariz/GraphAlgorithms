@@ -9,4 +9,5 @@ package graph;
  */
 public abstract class Graph {
 
+	Nodo n;
 }
